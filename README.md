@@ -8,4 +8,4 @@
 
 📫 Feel free to reach out to me via: maxjtwelftree@gmail.com
 
-🖥️ maxjtwelftree.com
+🖥️ https://maxjtwelftree.dev
