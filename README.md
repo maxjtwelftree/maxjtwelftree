@@ -13,5 +13,6 @@
     「 href="https://www.linkedin.com/in/yifan117" target="blank">LinkedIn</a><p> @ 📚 <b>Adelaide University</b> 」<br>
   </samp>
     
-   My Socials ✍️ <p><a「 href=["https://www.linkedin.com/in/maxtwelftree/" target="blank">LinkedIn</a><p> <p><a href="https://yifan-lu.com" target="blank">Personal Website</a><p>
+   My Socials ✍️ <p><a「 <p><a href="https://www.linkedin.com/in/maxtwelftree/" target="blank">Linkedin</a><p>
   </samp>
+
