@@ -6,5 +6,5 @@
 
 <p align="center"><br>
   <samp>
-    「 📫 Feel free to reach out to me via: <b>maxjtwelftree@gmail.com<b> 」
+    「 📫 Feel free to reach out to me via: maxjtwelftree@gmail.com 」
   </samp>
