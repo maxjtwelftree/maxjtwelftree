@@ -10,8 +10,8 @@
 
 🖥️ https://maxjtwelftree.dev
 
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Kevin Junyang Cui</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://maxjtwelftree.dev">Max Twelftree Cui</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Computer Science Bachelor of Science Candidate @ 🐦 <b>McGill University</b> 」<br>
+    「 Bachelor of Computer Science (Advanced) Student @ 📚 <b>Adelaide University</b> 」<br>
   </samp>
