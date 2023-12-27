@@ -1,9 +1,5 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://maxjtwelftree.com/">Max Twelftree </a></b></samp></h3>
-<p align="center"><br>
-  <samp>
-    「 Bachelor of Computer Science (Advanced) Student @ 📚 <b>Adelaide University</b> 」<br>
-  </samp>
-
-<p align="center"><br>
-  <samp>
-    「 📫 Feel free to reach out to me via: maxjtwelftree@gmail.com 」 
+<samp>
+  Check out my website -> <a href="https://www.maxjtwelftree.xyz">maxjtwelftree.xyz</a>
+  <br>
+  Reach out to me -> <a href="mailto:maxjtwelftree@gmail.com">via email</a>
+</samp>
